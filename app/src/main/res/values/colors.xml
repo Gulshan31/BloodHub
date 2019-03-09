@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#69F0AE</color>
+    <color name="register_activity_background_color">#7a4533</color>
+    <color name="register2">#af654c</color>
+    <color name="text_field_element">#9E9E9E</color>
 </resources>

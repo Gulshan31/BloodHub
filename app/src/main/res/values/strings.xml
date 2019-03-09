@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BloodHub</string>
+    <string name="donor">Register As Donor</string>
+    <string name="seeker">Blood Seeker</string>
+    <string name="or">OR</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pasword">Password</string>
+    <string name="btn_link_to_login">Already registred? Login Me.</string>
+    <string name="create_an_account">Create An Account</string>
+
 </resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "103479333082",
+    "firebase_url": "https://bloodhub-258da.firebaseio.com",
+    "project_id": "bloodhub-258da",
+    "storage_bucket": "bloodhub-258da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103479333082:android:c203410374c76656",
+        "android_client_info": {
+          "package_name": "com.kinitoapps.bloodhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103479333082-amgbremd8eotq2svnepg4oa1h76t24b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS17Jbdjy2TkZ6cRK-k8GyxDLnlYppxlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -24,7 +24,7 @@ public class SplashScreen extends AppCompatActivity {
                 /* Create an Intent that will start the Menu-Activity. */
 
 
-                    Intent mainIntent = new Intent(SplashScreen.this,MainActivity.class);
+                    Intent mainIntent = new Intent(SplashScreen.this,DonorOrSeeker.class);
                     SplashScreen.this.startActivity(mainIntent);
                     SplashScreen.this.finish();
 

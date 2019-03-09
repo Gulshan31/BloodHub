@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".DonorOrSeeker">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+       android:layout_centerInParent="true"
+        >
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button"
+        android:text="@string/donor"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:id="@+id/donor"
+        android:fontFamily="@font/lato_bold"
+        android:layout_margin="16dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+      >
+
+
+    <View android:layout_height="0.4dp"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:background="#bebebe"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="8dp"
+
+       />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/or"
+            android:paddingLeft="8dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            />
+        <View android:layout_height="0.4dp"
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:layout_marginTop="12dp"
+            android:background="#bebebe"
+            android:layout_marginRight="8dp"
+          />
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button"
+        android:text="@string/seeker"
+        android:layout_margin="16dp"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:id="@+id/seeker"
+        android:fontFamily="@font/lato_bold"/>
+    </LinearLayout>
+</RelativeLayout>
