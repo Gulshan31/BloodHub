@@ -8,5 +8,11 @@
     <string name="pasword">Password</string>
     <string name="btn_link_to_login">Already registred? Login Me.</string>
     <string name="create_an_account">Create An Account</string>
+    <string name="login">Login Here</string>
+    <string name="login_btn">Login</string>
+    <string name="register">Register</string>
+    <string name="not_memeber_sign_up">Not a Member? Sign Up now</string>
+    <string name="custom_google_client_id">103479333082-amgbremd8eotq2svnepg4oa1h76t24b5.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>

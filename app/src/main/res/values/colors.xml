@@ -6,4 +6,7 @@
     <color name="register_activity_background_color">#7a4533</color>
     <color name="register2">#af654c</color>
     <color name="text_field_element">#9E9E9E</color>
+    <color name="gray_light">#fafafa</color>
+    <color name="start_blue">#09c6df</color>
+    <color name="end_blue">#0bcce6</color>
 </resources>
